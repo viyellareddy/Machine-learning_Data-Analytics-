@@ -1,5 +1,4 @@
 
-```markdown
 # Automatidata Project: The Nuts and Bolts of Machine Learning
 
 ### Project Overview
